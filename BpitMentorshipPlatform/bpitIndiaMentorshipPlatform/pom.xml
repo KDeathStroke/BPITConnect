@@ -36,6 +36,14 @@
 
 	</properties>
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/com.google.appengine/appengine -->
+		<dependency>
+		    <groupId>com.google.appengine</groupId>
+		    <artifactId>appengine</artifactId>
+		    <version>1.9.24</version>
+		    <type>pom</type>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		<dependency>
     	<groupId>commons-io</groupId>
